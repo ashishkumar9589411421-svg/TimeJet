@@ -7,8 +7,8 @@ python -m venv venv
 venv\Scripts\activate   # Windows
 # source venv/bin/activate   # Linux/Mac
 
-# 3️⃣ Install required packages
-pip install -r requirements.txt
+
 
 # 4️⃣ Run the widget
-python neo_clock.py
+TimeJet.exe
+
